@@ -1,0 +1,10 @@
+C:\Users\Maria.Novasky\source\repos\projectTeclas\projectTeclas\bin\Debug\projectTeclas.exe.config
+C:\Users\Maria.Novasky\source\repos\projectTeclas\projectTeclas\bin\Debug\projectTeclas.exe
+C:\Users\Maria.Novasky\source\repos\projectTeclas\projectTeclas\bin\Debug\projectTeclas.pdb
+C:\Users\Maria.Novasky\source\repos\projectTeclas\projectTeclas\obj\Debug\projectTeclas.csproj.AssemblyReference.cache
+C:\Users\Maria.Novasky\source\repos\projectTeclas\projectTeclas\obj\Debug\projectTeclas.Form1.resources
+C:\Users\Maria.Novasky\source\repos\projectTeclas\projectTeclas\obj\Debug\projectTeclas.Properties.Resources.resources
+C:\Users\Maria.Novasky\source\repos\projectTeclas\projectTeclas\obj\Debug\projectTeclas.csproj.GenerateResource.cache
+C:\Users\Maria.Novasky\source\repos\projectTeclas\projectTeclas\obj\Debug\projectTeclas.csproj.CoreCompileInputs.cache
+C:\Users\Maria.Novasky\source\repos\projectTeclas\projectTeclas\obj\Debug\projectTeclas.exe
+C:\Users\Maria.Novasky\source\repos\projectTeclas\projectTeclas\obj\Debug\projectTeclas.pdb

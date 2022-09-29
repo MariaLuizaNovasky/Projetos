@@ -1,0 +1,13 @@
+C:\Users\Maria.Novasky\source\repos\ProjetoAcesso\ProjetoAcesso\obj\Debug\ProjetoAcesso.csproj.AssemblyReference.cache
+C:\Users\Maria.Novasky\source\repos\ProjetoAcesso\ProjetoAcesso\obj\Debug\ProjetoAcesso.Form1.resources
+C:\Users\Maria.Novasky\source\repos\ProjetoAcesso\ProjetoAcesso\obj\Debug\ProjetoAcesso.Form2.resources
+C:\Users\Maria.Novasky\source\repos\ProjetoAcesso\ProjetoAcesso\obj\Debug\ProjetoAcesso.Form3.resources
+C:\Users\Maria.Novasky\source\repos\ProjetoAcesso\ProjetoAcesso\obj\Debug\ProjetoAcesso.Form4.resources
+C:\Users\Maria.Novasky\source\repos\ProjetoAcesso\ProjetoAcesso\obj\Debug\ProjetoAcesso.Properties.Resources.resources
+C:\Users\Maria.Novasky\source\repos\ProjetoAcesso\ProjetoAcesso\obj\Debug\ProjetoAcesso.csproj.GenerateResource.cache
+C:\Users\Maria.Novasky\source\repos\ProjetoAcesso\ProjetoAcesso\obj\Debug\ProjetoAcesso.csproj.CoreCompileInputs.cache
+C:\Users\Maria.Novasky\source\repos\ProjetoAcesso\ProjetoAcesso\bin\Debug\ProjetoAcesso.exe.config
+C:\Users\Maria.Novasky\source\repos\ProjetoAcesso\ProjetoAcesso\bin\Debug\ProjetoAcesso.exe
+C:\Users\Maria.Novasky\source\repos\ProjetoAcesso\ProjetoAcesso\bin\Debug\ProjetoAcesso.pdb
+C:\Users\Maria.Novasky\source\repos\ProjetoAcesso\ProjetoAcesso\obj\Debug\ProjetoAcesso.exe
+C:\Users\Maria.Novasky\source\repos\ProjetoAcesso\ProjetoAcesso\obj\Debug\ProjetoAcesso.pdb

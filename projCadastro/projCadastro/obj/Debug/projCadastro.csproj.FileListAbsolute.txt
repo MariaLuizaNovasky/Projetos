@@ -1,0 +1,10 @@
+C:\Users\Maria.Novasky\source\repos\projCadastro\projCadastro\bin\Debug\projCadastro.exe.config
+C:\Users\Maria.Novasky\source\repos\projCadastro\projCadastro\bin\Debug\projCadastro.exe
+C:\Users\Maria.Novasky\source\repos\projCadastro\projCadastro\bin\Debug\projCadastro.pdb
+C:\Users\Maria.Novasky\source\repos\projCadastro\projCadastro\obj\Debug\projCadastro.csproj.AssemblyReference.cache
+C:\Users\Maria.Novasky\source\repos\projCadastro\projCadastro\obj\Debug\projCadastro.Form1.resources
+C:\Users\Maria.Novasky\source\repos\projCadastro\projCadastro\obj\Debug\projCadastro.Properties.Resources.resources
+C:\Users\Maria.Novasky\source\repos\projCadastro\projCadastro\obj\Debug\projCadastro.csproj.GenerateResource.cache
+C:\Users\Maria.Novasky\source\repos\projCadastro\projCadastro\obj\Debug\projCadastro.csproj.CoreCompileInputs.cache
+C:\Users\Maria.Novasky\source\repos\projCadastro\projCadastro\obj\Debug\projCadastro.exe
+C:\Users\Maria.Novasky\source\repos\projCadastro\projCadastro\obj\Debug\projCadastro.pdb
